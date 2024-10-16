@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#minecraft:hoes",
+    "#minecraft:pickaxes",
+    "#minecraft:enchantable/trident",
+    "#minecraft:arrows",
+    "#sensfantasycraft:weapon_spears",
+    "#sensfantasycraft:weapon_tridents",
+    "#sensfantasycraft:weapon_foils",
+    "#sensfantasycraft:weapon_pikes"
+  ]
+}
